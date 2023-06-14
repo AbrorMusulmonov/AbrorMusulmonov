@@ -1,2 +1,3 @@
 # Abror-Musulmonov
-My personal repository
+My Personal Repository
+#Hi there, I am Abror Musulmonov
