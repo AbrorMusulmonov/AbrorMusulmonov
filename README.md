@@ -8,7 +8,7 @@
 - Programming: CSharp and .NET
 - Frameworks: ASP.NET, ADO-NET and etc,
 - Soft skills:Leadership,Time-management,Presention skills and other
-- Extra skills:C++,Python,HTML&CSS and Databases
+- Extra programming skills:C++,Python,HTML&CSS and Databases
 
 
 
