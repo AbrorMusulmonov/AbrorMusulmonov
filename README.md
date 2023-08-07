@@ -2,7 +2,7 @@
 > My Personal Info
 ## Hi there, I am Abror Musulmonov.
 
-### I am CS student at INHA university in Tashkent and I am Intern .NET developer at Itransition Group!
+### I am CS student at INHA university in Tashkent
 
 
 - Programming: CSharp and .NET
